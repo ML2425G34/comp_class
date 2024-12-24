@@ -1,5 +1,7 @@
+start_lab.sh
 **/.ipynb_checkpoints/
 data/
-start_lab.sh
-miscellanious
-models/dbpedia.bin
+preproc/embedding/dbpedia.bin
+
+
+
